@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+whisper
+TTS
+pydantic
+python-dotenv
+aiofiles
+numpy
+torch
+openai-whisper

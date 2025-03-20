@@ -1,0 +1,24 @@
+# Loại bỏ thư mục môi trường ảo
+env/
+
+# Bỏ các file bytecode của Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Loại bỏ các file tạm của hệ thống
+.DS_Store
+Thumbs.db
+
+# Bỏ các thư mục hoặc file download tạm
+downloads/
+app/downloads
+# Bỏ các file log hoặc debug
+*.log
+
+# Nếu dùng VS Code, có thể bỏ thư mục cấu hình
+.vscode/
+
+# Nếu sử dụng Jupyter Notebook
+.ipynb_checkpoints/
